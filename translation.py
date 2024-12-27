@@ -57,7 +57,7 @@ class Translation(object):
 <b>📢 Channel :</b> <a href='https://t.me/outlawbots'>OutlawBots</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/faony'>Developer</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @OutlawBots"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
